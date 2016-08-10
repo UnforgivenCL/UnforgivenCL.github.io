@@ -9,8 +9,7 @@
 title: Un Simple Dev
 email: guillermo.lobos.parada@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Estudiante de Informática, me encanta el desarrollo de software y el
-  aprendizaje de diversos temas.
+  Blog para hablar de diversos temas que sean de mi interés personal.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://unforgivencl.github.io/" # the base hostname & protocol for your site
 twitter_username: unsimpledev
