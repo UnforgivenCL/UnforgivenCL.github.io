@@ -4,12 +4,7 @@ title: Acerca de Mí
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Soy estudiante de informática actualmente en segundo año, me encanta el desarrollo y el aprender de diversos temas.
+Me encanta aprender de gente que pueda aportar en cualquier ámbito personal, y también compartir aunque sea poco mi conocimiento hacia el resto del mundo.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Actualmente me siento cómodo con PHP (Laravel 5.x), C# (.NET) y Ruby como lenguaje de scripting.
